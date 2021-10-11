@@ -1,0 +1,38 @@
+body{
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%); 
+}
+h1{
+text-align: center;
+}
+table th, td{
+border: 1px solid black;
+border-collapse: collapse;
+}
+td, th{
+width: 100px;
+height: auto;
+}
+img{
+     width: 60px;
+height: 60px;
+}
+th:hover{
+    color: #000;
+}
+td:hover{
+    background:blanchedalmond;
+    background:blue;
+    color:white;
+    border:2px solid whitesmoke;
+}   
+h1:hover{
+    color:teal;
+}
+table{
+    width: 200px;
+    height: 200px; 
+}
+
+
+

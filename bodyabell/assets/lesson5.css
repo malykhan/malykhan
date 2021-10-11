@@ -1,0 +1,19 @@
+h1{
+    font-family: 'Montserrat', sans-serif;
+    
+}
+td{
+    border-color: blue;
+}
+h1, h2{
+    text-align: center;
+}
+
+
+.blue{
+    border-color:blue;
+}
+
+
+
+
